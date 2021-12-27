@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # coding=utf-8
-# Coded By Yayan XD
-# My Facebook ( https://www.facebook.com/KM39453 )
+# Coded By Fery XD
+# My Facebook ( https://www.facebook.com/Kathrynn. )
 
 #      (C) Copyright 407 Authentic Exploit
 #      Rebuild Copyright Can't make u real programmer:)
